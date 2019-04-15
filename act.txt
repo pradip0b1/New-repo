@@ -1,0 +1,13 @@
+hi Team
+Debugging Methodologies for Realtime Issues in Linux Systems
+https://www.youtube.com/watch?v=1u3pkSULOeM
+
+Thread Dump Analysis for IBM JVM -
+ Part1https://www.youtube.com/watch?v=YQgmF8I-zhk&list=PLI6eJGDU-LylsevUJDgg6MJzlso-_tq46
+
+Troubleshooting port conflict issue in Websphere Application Server
+https://www.youtube.com/watch?v=YRLU_F03P9k
+
+
+Issues of real time system
+https://www.youtube.com/watch?v=ECnLyfrrjGQ
